@@ -1,0 +1,25 @@
+{
+  "nameEnglish": "John Doe",
+  "nameHebrew": "ג'ון דו",
+  "team": "lallibela",
+  "idPassWord": "000000001",
+  "email": "some@email.com",
+  "technionEmail": "some@technion.ac.il",
+  "phone": "05020141014",
+  "dob": "01/01/1971",
+  "faculty": "civil",
+  "timeTillGradtuation": "need to see how to do it...",
+  "safetyBriefing": "01/01/2020",
+  "validVolunteerFor": "yes",
+  "insurance": "yes",
+  "joinDate": "01/01/2020",
+  "revcognitionCertificate": {
+    "recieved": "yes",
+    "when": "01/01/2020"
+  },
+  "branchShirt": "yes",
+  "teamLeader": "yes",
+  "edcGraduate": "yes",
+  "edcSudent": "no",
+  "edcTeahingAssitent": "yes"
+}

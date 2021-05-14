@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EwbToolkitProject.iml" filepath="$PROJECT_DIR$/.idea/EwbToolkitProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ewb_toolkit_be.iml" filepath="$PROJECT_DIR$/.idea/ewb_toolkit_be.iml" />
     </modules>
   </component>
 </project>
